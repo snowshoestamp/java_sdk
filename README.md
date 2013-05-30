@@ -31,7 +31,7 @@ and where you see the comment asking you to enter your app key again, do so.
 4. At this point, you should be able to navigate on a touch screen device to www.yourdomain.com/sssjavasdk
 and see a link saying "Send me to the stamp screen". The basic functionality exhibited here is to
 illustrate that at some point in your app, you will need to send the user to our server. The address for this
-redirect is http://beta.snowshoestamp.com/api/v2/client/<your app key here>/  You can achieve this redirect 
+redirect is http://beta.snowshoestamp.com/api/v2/client/ &#60; your app key here &#62; /  You can achieve this redirect 
 however is most convenient for you. 
 
 5. If you click the link, you should be directed to our stamp screen. Stamp the screen, and
