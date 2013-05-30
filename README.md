@@ -25,7 +25,7 @@ directory is at www.yourdomain.com, your callback url will be
 http://www.yourdomain.com/sssjavasdk/servlet/receiver
 Feel free to change this for your own implementation as necessary
 
-3.Once you have entered your app secret and app key in the receiver file, open the redirect file, 
+3. Once you have entered your app secret and app key in the receiver file, open the redirect file, 
 and where you see the comment asking you to enter your app key again, do so.
 
 4. At this point, you should be able to navigate on a touch screen device to www.yourdomain.com/sssjavasdk
